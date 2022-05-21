@@ -8,3 +8,7 @@ We will take a REST API plugin as an example for understanding plugin developmen
  3. adding templated in a folder named `templates`
 
 Then a zipped file of the plugin can be uploaded to FinDesk server.
+
+___
+
+[Creating a REST plugin](./samplePlugin.md)
