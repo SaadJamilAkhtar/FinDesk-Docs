@@ -3,12 +3,12 @@ Everything you need to know about FinDesk's plugin architecture
 ## FinDesk
 FinDesk is a web based financial managment system which is expandble using plugins.
 
-## What FinDesk offer
+## What FinDesk offers
 Out of the box FinDesk offers a basic Financial managment system with plugin architecture built-in. A few sample plugins are also available for FinDesk however, its functionality can be expanded by building you own plugins and integrating them into FinDesk.
 ## How the documentation is organized
  The documentation will help you in getting started with FinDesk Plugin development. The documentation uses a tutorial based approach that helps you understand core concept of plugin developemnt using a REST API as example.
 
- ## Core Concept
+ ## Core Concepts
  FinDesk aims to reduce the learning curve for plugin development especially for Django developers. Since FinDesk is based on Django, its functionality can be increased while using all the tools tha Django has to offer. FinDesk utilizes Django's concept of reusable components i.e. `apps` and with minimun effort convert them into plugins that can be incorporated in FinDesk on runtime.
 
 ___
