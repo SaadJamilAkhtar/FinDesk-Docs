@@ -37,5 +37,10 @@ Run FinDesk on your local machine using command
 `python manage.py runserver`
 
 
+___
+
+[Getting started with plugin development](./pluginDevelopment.md)
+
+
 
 
