@@ -11,4 +11,4 @@ Then a zipped file of the plugin can be uploaded to FinDesk server.
 
 ___
 
-[Creating a REST plugin](./samplePlugin.md)
+[Creating a sample plugin](./samplePlugin.md)
